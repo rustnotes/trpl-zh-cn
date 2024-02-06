@@ -7,8 +7,8 @@ language = "zh-CN"
 [output.html]
 additional-css = ["ferris.css", "theme/2018-edition.css"]
 additional-js = ["ferris.js"]
-git-repository-url = "https://github.com/KaiserY/trpl-zh-cn/tree/main"
-edit-url-template = "https://github.com/KaiserY/trpl-zh-cn/edit/main/{path}"
+git-repository-url = "https://github.com/rustnotes/trpl-zh-cn/tree/main"
+edit-url-template = "https://github.com/rustnotes/trpl-zh-cn/edit/main/{path}"
 
 [output.typst-pdf]
 pdf = true
